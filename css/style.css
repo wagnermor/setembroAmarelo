@@ -23,8 +23,7 @@ header {
 header .img {
   width: 150px;
 }
-header nav {
-}
+
 header nav ul li ~ li {
   border-left: 2px solid #011936;
 }
